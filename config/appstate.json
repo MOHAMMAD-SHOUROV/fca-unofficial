@@ -1,0 +1,18 @@
+[
+  {
+    "key": "c_user",
+    "value": "6157xxxxxxxx",
+    "domain": ".facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": false
+  },
+  {
+    "key": "xs",
+    "value": "40%xxxxxxxxxxxxxxxx",
+    "domain": ".facebook.com",
+    "path": "/",
+    "secure": true,
+    "httpOnly": true
+  }
+]

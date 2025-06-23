@@ -1,0 +1,17 @@
+{
+  "name": "fca-unofficial",
+  "version": "1.0.0",
+  "description": "Facebook Chat API unofficial fork",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["facebook", "chat", "api", "unofficial", "messenger"],
+  "author": "King_Shourov",
+  "license": "MIT",
+  "dependencies": {
+    "fca-unofficial": "^1.0.0",
+    "fs-extra": "^11.1.1",
+    "path": "^0.12.7"
+  }
+}
